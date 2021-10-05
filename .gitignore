@@ -1,0 +1,12 @@
+*.csv
+*.xlsx
+*.twb
+*.twbx
+*.docx
+*.RDS
+*.png
+*.pptx
+*.twb?
+*.RData
+*.jpg
+*.zip
